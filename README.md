@@ -28,12 +28,13 @@ Classification of a cancer into 9 classes
 * Checking wheather each feature is important or not for predicting yi
 * Firstly we will featurize Gene feature using the two featurization techniques
 * We will use the appropriate featurization based on ML models we use. For this problem with categorical features, one hot encoding is very useful for logistic regression.
-* For more detailed explaination, please take a look at `.ipynb` or `.pdf` file.
 
 
 # Implementation
 * Trained Naive Bayes , KNN (k nearest neighbours), Logistic regression, Linear SVM (Support Vector Machine)
-# Reduced the misclassification rate to 38% using Logistic Regression.
+* Reduced the misclassification rate to 38% using Logistic Regression.
+
+For more detailed explaination, please take a look at `.ipynb` or `.pdf` file.
 
 
 
